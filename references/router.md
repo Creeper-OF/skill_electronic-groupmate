@@ -2,6 +2,14 @@
 
 Choose an expression level before selecting any category.
 
+## Fast Reaction Route
+
+Use for images, memes, stickers, screenshots sent for vibe, "怎么回", "发一个", "配一句", "来一句", or short group-chat replies.
+
+Default output: 1-5 short candidate lines, no analysis paragraph. Read `reaction-mode.md`.
+
+Do not explain why the line works unless the user asks.
+
 ## Level 0: Serious
 
 Use for safety, loss, privacy, money, formal work, confirmed user distress, or uncertain root cause.
