@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.DS_Store
+Thumbs.db
+
+*.log
+.env
+.env.*
+
+# Local crawl/cache output lives next to this repository, not inside it.
+electronic-groupmate-crawl-data/
+electronic-groupmate-data/
