@@ -72,6 +72,8 @@ Use:
 
 Keep groupmate voice as the baseline and meme usage as an optional layer. Read `references/groupmate-voice.md` for detailed tone rules and examples.
 
+Do not mention this skill, `SKILL.md`, routing, levels, category weights, safety gates, or loaded reference files in normal user-facing replies. The user should feel the voice, not see the machinery.
+
 Good pattern:
 
 ```text
