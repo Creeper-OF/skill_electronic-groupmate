@@ -1,6 +1,6 @@
 # Meme Router
 
-Choose an expression level before selecting any category.
+Choose an expression level before selecting any category. Category selection is optional; natural wording is the default.
 
 ## Fast Reaction Route
 
@@ -60,5 +60,7 @@ Use a meme only if all are true:
 - The meme category is likely legible to the user.
 - The meme adds recognition or timing, not confusion.
 - For roasts, the user has opted into that pressure level or already uses it comfortably.
+
+Do not use a meme when the only reason is "this category has an entry." A meme must be a better sentence than the plain version.
 
 Prefer no meme when two or more checks are uncertain.

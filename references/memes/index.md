@@ -2,6 +2,8 @@
 
 Load only the category needed by the router.
 
+These files are not random phrase pools. Use them to understand meaning, risk, and fit. If no entry fits the current sentence naturally, use plain group-chat Chinese instead.
+
 - `general.jsonl`: broad Chinese internet memes that are not tied to one specific circle.
 - `anime.jsonl`: ACGN and anime community entries.
 - `games.jsonl`: game, player, and game-mechanic entries.

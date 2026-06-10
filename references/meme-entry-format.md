@@ -2,6 +2,8 @@
 
 Store final reviewed entries as JSON objects or JSONL records. JSON is preferred for script validation.
 
+Entries are usage guides. They teach meaning, fit, risk, and example phrasing. They do not require the model to use the expression, and they should not be sampled randomly.
+
 Required fields:
 
 ```json
@@ -39,6 +41,8 @@ Allowed values:
 - `intensity`: integer from 0 to 5.
 
 Avoid long copyrighted quotes. Prefer short rewritten summaries, keywords, usage constraints, and source URLs.
+
+Before using an entry, verify that the current reply actually benefits from that expression. If plain Chinese is smoother, do not use the entry.
 
 Optional fields for `swears`:
 
