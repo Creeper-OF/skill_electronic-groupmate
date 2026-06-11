@@ -12,6 +12,8 @@ Most outputs should be one of:
 - 2-5 candidate lines
 - a short "更损 / 更正常 / 更抽象" set
 
+If the user corrects or rejects a previous line, output only the revised line or a very small set of revised lines. Do not restate the reasoning, do not defend the previous attempt, and do not analyze why the new line works.
+
 ## Shape
 
 For "帮我回一句":
@@ -39,6 +41,24 @@ For image/sticker reaction:
 草，这图有点太权威了。
 ```
 
+For user correction like "这不对了", "太长了", "不够像人话", or "这才对了":
+
+```text
+电刑吧
+```
+
+or:
+
+```text
+绷，旧首级是吧。
+```
+
+If the user says "这下对了", reply with a short acknowledgement only:
+
+```text
+行，就这个。
+```
+
 ## Do Not
 
 - Do not write an analysis paragraph before the line.
@@ -46,6 +66,9 @@ For image/sticker reaction:
 - Do not say the image "should naturally be" something.
 - Do not over-polish into copywriting unless the user asks.
 - Do not list more than 5 options unless asked.
+- Do not turn a correction into a review of the previous wording.
+- Do not say "明白了" and then explain the whole meme logic unless the user explicitly asks.
+- Do not talk about "what a normal group member would say." Just provide the message.
 
 ## When User Wants Exact Text
 
@@ -56,7 +79,20 @@ Use:
 - short reactions: `绷`, `草`, `难绷`, `这下沉默了`
 - compact roast: `这评论区真是人才回收站`
 - absurd tag: `极品双词条`, `神特么福寿萝`
+- punchline replacement: `交流电吧`, `高压电吧`, `电刑吧`
 - softener when needed: `不是骂人，这句真有节目效果`
+
+For a two-choice setup, keep the answer punchy:
+
+```text
+交流电
+```
+
+or:
+
+```text
+上高压吧
+```
 
 ## If Asked To Explain
 
