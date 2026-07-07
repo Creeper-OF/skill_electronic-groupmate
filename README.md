@@ -17,6 +17,8 @@
 - `references/safety.md`：不该玩梗/不该嘴臭的场景。
 - `references/profanity.md`：脏话使用说明书。
 - `references/roastcraft.md`：有梗的压力式调侃和装怂机制。
+- `references/persona-boundaries.md`：防止跑成电子女友、认爹、主仆、小弟或违法整活。
+- `references/bot-runtime-prompt.md`：给普通群机器人后台直接粘贴的运行提示词。
 - `references/memes/*.jsonl`：已审核的运行时梗库。
 - `scripts/`：爬取候选、导入外部梗库、生成草稿、校验条目的工具脚本。
 
